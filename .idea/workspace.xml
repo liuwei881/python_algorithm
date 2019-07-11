@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f789b08-b9cb-4c8b-a40f-22911fc029f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/naive_max_perm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counting_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max_perm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -23,27 +24,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="7" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="7" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="245" />
-          <entry key="py" value="1788" />
-          <entry key="txt" value="14" />
+          <entry key="md" value="296" />
+          <entry key="py" value="2260" />
+          <entry key="txt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="245" />
-          <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="1788" />
+          <entry key="Markdown" value="296" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="Python" value="2260" />
         </counts>
       </usages-collector>
     </session>
@@ -54,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/naive_max_perm.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+              <caret line="24" column="28" lean-forward="true" selection-start-line="22" selection-end-line="24" selection-end-column="28" />
               <folding>
                 <marker date="1562768264180" expanded="true" signature="47:52" ph="..." />
               </folding>
@@ -62,14 +63,62 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/max_perm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding>
+                <marker date="1562854482182" expanded="true" signature="33:38" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="238">
-                <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <first_editor relative-caret-position="306">
+                <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/counting_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding>
+                <marker date="1562854816955" expanded="true" signature="92:97" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gnomesort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <folding>
+                <marker date="1561855936767" expanded="true" signature="36:41" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/insert_rec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="19" selection-end-line="22" selection-end-column="14" />
+              <folding>
+                <marker date="1562161780690" expanded="true" signature="113:118" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,7 +145,9 @@
         <option value="$PROJECT_DIR$/sel_sort_rec.py" />
         <option value="$PROJECT_DIR$/sel_sort.py" />
         <option value="$PROJECT_DIR$/naive_max_perm.py" />
+        <option value="$PROJECT_DIR$/max_perm.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/counting_sort.py" />
       </list>
     </option>
   </component>
@@ -150,7 +201,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.naive_max_perm">
+  <component name="RunManager" selected="Python.counting_sort">
+    <configuration name="counting_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/counting_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="gnomesort" type="PythonConfigurationType" factoryName="Python">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ins_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="max_perm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,28 +256,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ins_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="insert_rec" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insert_rec.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/max_perm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,19 +330,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.gnomesort" />
-      <item itemvalue="Python.insert_rec" />
-      <item itemvalue="Python.ins_sort" />
       <item itemvalue="Python.sel_sort_rec" />
       <item itemvalue="Python.sel_sort" />
       <item itemvalue="Python.naive_max_perm" />
+      <item itemvalue="Python.max_perm" />
+      <item itemvalue="Python.counting_sort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.counting_sort" />
+        <item itemvalue="Python.max_perm" />
         <item itemvalue="Python.naive_max_perm" />
         <item itemvalue="Python.sel_sort" />
         <item itemvalue="Python.sel_sort_rec" />
-        <item itemvalue="Python.ins_sort" />
-        <item itemvalue="Python.insert_rec" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562506296059</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="寻找最大排列的递归算法">
+      <created>1562768397058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562768397059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -321,7 +379,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -329,7 +387,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,35 +402,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加README" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加README" />
+    <MESSAGE value="寻找最大排列的递归算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="寻找最大排列的递归算法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gnomesort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <marker date="1561855936767" expanded="true" signature="36:41" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mergesort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           <folding>
             <marker date="1561891996447" expanded="true" signature="36:41" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insert_rec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <marker date="1562161780690" expanded="true" signature="113:118" ph="..." />
           </folding>
         </state>
       </provider>
@@ -410,7 +449,7 @@
     <entry file="file://$PROJECT_DIR$/naive_max_perm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <caret line="24" column="28" lean-forward="true" selection-start-line="22" selection-end-line="24" selection-end-column="28" />
           <folding>
             <marker date="1562768264180" expanded="true" signature="47:52" ph="..." />
           </folding>
@@ -420,10 +459,50 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="238">
-            <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <first_editor relative-caret-position="306">
+            <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_perm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <marker date="1562854482182" expanded="true" signature="33:38" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gnomesort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <marker date="1561855936767" expanded="true" signature="36:41" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_rec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="19" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <marker date="1562161780690" expanded="true" signature="113:118" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counting_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <marker date="1562854816955" expanded="true" signature="92:97" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
