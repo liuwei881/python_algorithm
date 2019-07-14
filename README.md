@@ -8,3 +8,5 @@
 7、naive_max_perm 寻找最大排列问题的递归算法，朴素版
 8、max_perm 寻找最大排列问题的线性时间算法
 9、counting_sort 计数排序
+10、naive_celeb 明星问题朴素版
+11、celeb 明星问题正常版
